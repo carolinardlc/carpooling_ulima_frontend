@@ -485,32 +485,7 @@ Diseño visual de las principales pantallas de la aplicación:
 - Incluye pruebas para nuevas características
 - Actualiza el README si es necesario
 
----
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
-## 📞 Contacto y Soporte
-
-¿Tienes preguntas o sugerencias? ¡Nos encantaría escucharte!
-
-- 📧 Email: [contacto@carpoolingapp.com](mailto:contacto@carpoolingapp.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/tuusuario/carpooling-app/issues)
-- 💬 Discusiones: [GitHub Discussions](https://github.com/tuusuario/carpooling-app/discussions)
-
----
-
-## 🙏 Agradecimientos
-
-- Flutter Team por el excelente framework
-- Ruby Community por el lenguaje robusto
-- Firebase por los servicios de notificación
-- Todos los contribuidores del proyecto
-
----
 
 <div align="center">
 
