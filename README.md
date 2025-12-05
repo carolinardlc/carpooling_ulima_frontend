@@ -482,21 +482,7 @@ Diseño visual de las principales pantallas de la aplicación:
 
 ---
 
-## 🤝 Contribuir
-
-¡Las contribuciones son bienvenidas! Si deseas colaborar con el proyecto:
-
-1. 🍴 Haz un Fork del repositorio
-2. 🌿 Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit tus cambios (`git commit -m 'Add: nueva funcionalidad'`)
-4. 📤 Push a la rama (`git push origin feature/AmazingFeature`)
-5. 🔀 Abre un Pull Request
-
-### Directrices de Contribución
-- Sigue las convenciones de código establecidas
-- Documenta nuevas funcionalidades
-- Incluye pruebas para nuevas características
-- Actualiza el README si es necesario
+<img width="794" height="1123" alt="image" src="https://github.com/user-attachments/assets/0996bcbd-ffd2-49ce-8283-fcf4237318c3" />
 
 
 
