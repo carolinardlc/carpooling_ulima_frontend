@@ -117,7 +117,8 @@ Visita el [sitio oficial de Ruby Installer](https://rubyinstaller.org/downloads/
 #### 1.2 Instalación
 Ejecuta el instalador y sigue las instrucciones en pantalla. Asegúrate de marcar la opción **"Add Ruby to PATH"**.
 
-![Instalación Ruby](images/imagen2.png)
+<img width="858" height="305" alt="image" src="https://github.com/user-attachments/assets/58b68e0c-d874-4277-b39b-bd660e074fe0" />
+
 
 #### 1.3 Verificación
 Abre una terminal y ejecuta:
@@ -127,7 +128,8 @@ ruby --version
 
 Deberías ver la versión instalada de Ruby.
 
-![Verificación Ruby](images/imagen3.png)
+<img width="864" height="246" alt="image" src="https://github.com/user-attachments/assets/fdf94783-4d49-4a02-a9ac-2eef35c73cf6" />
+
 
 ---
 
