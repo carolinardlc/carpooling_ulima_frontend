@@ -111,7 +111,8 @@ Ruby es el lenguaje de programación que impulsa nuestro backend, gestionando to
 #### 1.1 Descarga
 Visita el [sitio oficial de Ruby Installer](https://rubyinstaller.org/downloads/) y descarga la versión recomendada para Windows.
 
-![Ruby Installer](images/imagen1.png)
+<img width="950" height="670" alt="image" src="https://github.com/user-attachments/assets/91b7151e-e48a-412d-a866-d8c365d104cb" />
+
 
 #### 1.2 Instalación
 Ejecuta el instalador y sigue las instrucciones en pantalla. Asegúrate de marcar la opción **"Add Ruby to PATH"**.
