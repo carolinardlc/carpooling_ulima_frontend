@@ -140,7 +140,8 @@ Flutter es el framework de Google que permite crear aplicaciones nativas multipl
 #### 2.1 Descarga
 Descarga Flutter SDK desde la [documentación oficial](https://docs.flutter.dev/get-started/install/windows/mobile).
 
-![Flutter SDK](images/imagen4.png)
+<img width="1237" height="594" alt="image" src="https://github.com/user-attachments/assets/7603f8ac-b2d4-4864-a724-7ef71cc797a6" />
+
 
 #### 2.2 Configuración de Variables de Entorno
 1. Extrae el archivo descargado en una ubicación permanente (ej: `C:\flutter`)
@@ -150,7 +151,8 @@ Descarga Flutter SDK desde la [documentación oficial](https://docs.flutter.dev/
 5. En **Variables del sistema**, edita la variable `PATH`
 6. Añade la ruta completa a la carpeta `bin` de Flutter (ej: `C:\flutter\bin`)
 
-![Variables de Entorno](images/imagen5.png)
+<img width="865" height="657" alt="image" src="https://github.com/user-attachments/assets/5e722bdb-6383-4af8-a238-0ace370b8d7e" />
+
 
 #### 2.3 Instalación
 Abre una terminal y ejecuta:
@@ -160,7 +162,8 @@ flutter doctor
 
 Este comando verificará todas las dependencias necesarias.
 
-![Flutter Doctor](images/imagen9.png)
+<img width="1244" height="621" alt="image" src="https://github.com/user-attachments/assets/3f63c325-281e-469a-a39f-1be229b87665" />
+
 
 #### 2.4 Aceptar Licencias de Android
 Ejecuta el siguiente comando para aceptar las licencias del SDK de Android:
@@ -173,7 +176,8 @@ flutter doctor --android-licenses
 git config --global --add safe.directory '*'
 ```
 
-![Licencias Android](images/imagen10.png)
+<img width="1260" height="647" alt="image" src="https://github.com/user-attachments/assets/5545fe3e-f545-42f4-918c-34dd001dd1c4" />
+
 
 ---
 
@@ -184,7 +188,8 @@ Android Studio es el entorno de desarrollo integrado (IDE) oficial para aplicaci
 #### 3.1 Descarga
 Descarga Android Studio desde el [sitio oficial](https://developer.android.com/studio#get-android-studio).
 
-![Android Studio](images/imagen6.png)
+<img width="1244" height="506" alt="image" src="https://github.com/user-attachments/assets/416758b7-f468-4f21-a1e6-95dd81b1a98d" />
+
 
 #### 3.2 Instalación
 Ejecuta el instalador y sigue el asistente de configuración. Asegúrate de instalar:
@@ -192,12 +197,14 @@ Ejecuta el instalador y sigue el asistente de configuración. Asegúrate de inst
 - Android SDK Platform-Tools
 - Android Emulator
 
-![Instalación Android Studio](images/imagen7.png)
+<img width="707" height="571" alt="image" src="https://github.com/user-attachments/assets/3ccba9fe-9a5e-43c6-a367-3c87e3a5f4e6" />
+
 
 #### 3.3 Verificación
 Abre Android Studio y verifica que el SDK esté correctamente configurado en **Settings → Appearance & Behavior → System Settings → Android SDK**.
 
-![Verificación Android Studio](images/imagen8.png)
+<img width="970" height="771" alt="image" src="https://github.com/user-attachments/assets/df020cf9-de98-4137-9e88-284687dd67df" />
+
 
 ---
 
@@ -207,7 +214,8 @@ Abre Android Studio y verifica que el SDK esté correctamente configurado en **S
 
 Nuestra aplicación utiliza una **arquitectura cliente-servidor moderna** con los siguientes componentes:
 
-![Diagrama de Despliegue](images/imagen11.png)
+<img width="547" height="589" alt="image" src="https://github.com/user-attachments/assets/8c22c443-b7d0-4738-a9ad-decdd1ed172f" />
+
 
 #### Componentes Principales
 
@@ -278,7 +286,8 @@ Nuestra aplicación utiliza una **arquitectura cliente-servidor moderna** con lo
 
 ### Diagrama General
 
-![Diagrama de Casos de Uso](images/imagen12.png)
+<img width="424" height="1219" alt="image" src="https://github.com/user-attachments/assets/dd621409-64fe-4be2-a69d-e01c2108ea65" />
+
 
 ### Descripción Detallada
 
