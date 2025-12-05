@@ -489,8 +489,4 @@ Diseño visual de las principales pantallas de la aplicación:
 
 <div align="center">
 
-**Hecho con ❤️ para una movilidad más sostenible**
-
-⭐ Si este proyecto te ha sido útil, ¡no olvides darle una estrella!
-
 </div>
