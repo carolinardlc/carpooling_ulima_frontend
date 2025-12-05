@@ -25,8 +25,6 @@
 - [Casos de Uso](#-casos-de-uso)
 - [Modelo de Datos](#️-modelo-de-datos)
 - [Mockups](#-mockups)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
 
 ---
 
