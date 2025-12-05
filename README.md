@@ -461,7 +461,7 @@ Alertas enviadas a los usuarios.
 
 Diseño visual de las principales pantallas de la aplicación:
 
-![Mockups](images/PROG.MOVIL.svg)
+
 
 ### Pantallas Incluidas
 
