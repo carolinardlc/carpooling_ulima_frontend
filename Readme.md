@@ -96,3 +96,98 @@ Requerimientos Funcionales
 | Reseñas y calificaciones  | Reputación    | Evaluaciones entre usuarios tras el viaje.              | Media     |
 | Reporte de incidencias    | Seguridad     | Denuncia de comportamientos inapropiados.               | Alta      |
 | Paradas intermedias       | Viajes        | Añadir paradas opcionales en un viaje.                  | Baja      |
+
+
+Requerimientos No Funcionales
+
+| Requerimiento       | Categoría     | Descripción                                       | Prioridad |
+| ------------------- | ------------- | ------------------------------------------------- | --------- |
+| Escalabilidad       | Rendimiento   | Capacidad para aumentar usuarios sin degradación. | Alta      |
+| Disponibilidad      | Confiabilidad | Uptime mínimo del 99%.                            | Alta      |
+| Seguridad de datos  | Seguridad     | Cifrado de datos sensibles en tránsito y reposo.  | Alta      |
+| Usabilidad          | UX            | Interfaz intuitiva y eficiente.                   | Alta      |
+| Compatibilidad      | Portabilidad  | Funcionamiento en versiones recientes de Android. | Media     |
+| Tiempo de respuesta | Rendimiento   | Respuesta del backend < 2 segundos.               | Alta      |
+| Mantenibilidad      | Soporte       | Código modular, limpio y documentado.             | Media     |
+| Copias de seguridad | Confiabilidad | Respaldos periódicos de la base de datos.         | Media     |
+| Multilenguaje       | Usabilidad    | Capacidad futura de varios idiomas.               | Baja      |
+
+Diagrama de Casos de Uso
+
+| Código | Nombre                       | Actor                | Descripción                                                     |
+| ------ | ---------------------------- | -------------------- | --------------------------------------------------------------- |
+| UC1    | Registrarse / Iniciar sesión | Pasajero / Conductor | Permite crear una cuenta o acceder con credenciales existentes. |
+| UC2    | Solicitar viaje              | Pasajero             | Selecciona un destino y solicita un viaje disponible.           |
+| UC3    | Cancelar viaje               | Pasajero             | Cancela un viaje que ya había solicitado.                       |
+| UC4    | Calificar conductor          | Pasajero             | Evalúa al conductor tras finalizar el viaje.                    |
+| UC5    | Realizar pago                | Pasajero             | Ejecuta el pago del viaje dentro de la app.                     |
+| UC12   | Ver historial                | Pasajero             | Consulta viajes anteriores.                                     |
+| UC13   | Ver perfil del conductor     | Pasajero             | Visualiza información, calificaciones y datos del conductor.    |
+| UC6    | Aceptar viaje                | Conductor            | Acepta la solicitud enviada por un pasajero.                    |
+| UC7    | Finalizar viaje              | Conductor            | Marca un viaje como completado.                                 |
+| UC8    | Calificar pasajero           | Conductor            | Evalúa al pasajero al finalizar el viaje.                       |
+| UC14   | Configurar disponibilidad    | Conductor            | Define horarios en los que ofrecerá viajes.                     |
+| UC15   | Ver historial                | Conductor            | Revisa viajes ya realizados.                                    |
+| UC9    | Gestionar usuarios           | Administrador        | Activa, suspende o elimina cuentas.                             |
+| UC10   | Gestionar conductores        | Administrador        | Valida y supervisa el registro de conductores.                  |
+| UC11   | Monitorear viajes            | Administrador        | Supervisa viajes en tiempo real.                                |
+| UC16   | Generar reportes             | Administrador        | Produce reportes de viajes, pagos y evaluaciones.               |
+
+Diagrama Entidad–Relación
+
+Descripción del Modelo
+
+El sistema se compone de las siguientes entidades principales:
+
+Users: Datos personales, tipo de usuario, puntajes y verificación.
+
+Vehicles: Información del vehículo asociado al conductor.
+
+Trips: Viajes creados con rutas, horarios y precios.
+
+Bookings: Reservas de pasajeros con estado y asiento.
+
+Payments: Registros de pagos realizados.
+
+Stops: Paradas intermedias asociadas al viaje.
+
+Reviews: Calificaciones y comentarios entre usuarios.
+
+Messages: Mensajería interna relacionada a un viaje.
+
+Reports: Reportes de problemas o usuarios.
+
+Notifications: Alertas y mensajes del sistema.
+
+
+Mockups
+
+Descripción general de las pantallas:
+
+Inicio de sesión
+
+Registro de usuario
+
+Error de inicio de sesión
+
+Búsqueda de viajes
+
+Solicitud de viaje
+
+Chat
+
+Calificación
+
+Perfil
+
+Configuración del perfil
+
+Historial de viajes
+
+Registro de vehículo
+
+Métodos de pago
+
+Confirmación de transacción
+
+Panel de notificaciones
