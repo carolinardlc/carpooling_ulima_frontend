@@ -316,7 +316,8 @@ Nuestra aplicación utiliza una **arquitectura cliente-servidor moderna** con lo
 
 ### Diagrama Entidad-Relación
 
-![Diagrama ER](images/imagen13.png)
+<img width="944" height="1076" alt="image" src="https://github.com/user-attachments/assets/386646ae-f32b-4ad8-8262-fa014e456080" />
+
 
 ### Descripción de Entidades
 
@@ -499,6 +500,6 @@ Diseño visual de las principales pantallas de la aplicación:
 
 
 
-<div align="center">
+<div>
 
 </div>
